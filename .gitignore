@@ -1,3 +1,4 @@
 config.py
 seen_ips.txt
 wrong.txt
+__pycache__/
